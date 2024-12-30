@@ -8,5 +8,3 @@ Hello, I'm Atharv Naidu, a junior at UC Berkeley interested in Machine Learning 
 🌱 I’m currently learning Swift, Javascript, more advanced Machine Learning, and anything I can get my hands on!
 
 😄 Pronouns: He/him/his
-
-⚡ Fun fact: Although I might be young, I started coding from age 8 so I ended up becoming fluent in Python before I learned Scratch.
